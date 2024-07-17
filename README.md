@@ -1,6 +1,10 @@
 
 # LiterAlura: Seu Catálogo de Livros
 
+<p align="center">
+  <img src="img/badge-literalura.png" width="300" alt="badge">
+</p>
+
 ## Descrição
 
 O LiterAlura é um projeto desenvolvido em Spring Boot que permite a criação de um catálogo de livros. O projeto permite buscar livros por título, listar livros registrados, listar autores, listar autores em determinado ano e listar livros em determinado idioma. O LiterAlura utiliza a API Gutendex para buscar informações sobre livros e o PostgreSQL para armazenar os dados.
